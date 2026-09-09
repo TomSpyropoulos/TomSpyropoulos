@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello there 👋
 
-<!--
-**TomSpyropoulos/TomSpyropoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical and Computer Engineering @ NTUA, currently finishing my diploma thesis.
 
-Here are some ideas to get you started:
+I build distributed systems, and I want them fast, principled, measured, and still readable six months later. The bugs I enjoy most are the ones where every single machine is behaving perfectly correctly and the system as a whole is very obviously not.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I am learning
+
+Going deeper into distributed systems, especially latency and reliability rather than just raw throughput.
+
+Software architecture and building feedback loops that let an AI agent notice it is wrong instead of being confidently wrong faster.
+
+## 🎲 Elsewhere
+
+I run tabletop RPGs, mostly the old-school kind. Otherwise cinema, music and philosophy.
